@@ -5,3 +5,5 @@ This lesson will cover git basics (Practicing vscode keyboard shortcuts around t
 Practicing basic keyboard and navigation shortcuts 
 
 New Line
+
+Next commit
