@@ -1,5 +1,5 @@
 """
-You already know I had to slip a joke in here somewhere/somehow.
+Of course I had to slip a joke in here somewhere/somehow ;)
 """
 
 def hello_world():
